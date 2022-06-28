@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.ACCESS_GPS" />
     <uses-feature android:name="android.hardware.location.gps" />
     <application
-            android:label="Demo Test"
+            android:label="AppSnap"
             android:name="${applicationName}"
             android:screenOrientation="unspecified"
             android:icon="@mipmap/ic_launcher">
