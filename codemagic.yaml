@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://app.appsnap.combackend/api/observe/notice/9fc00116-951e-d2cd-46fb-8e2d0dccb3fe
+            curl https://app.appsnap.com/backend/api/observe/notice/9fc00116-951e-d2cd-46fb-8e2d0dccb3fe
